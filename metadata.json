@@ -1,0 +1,6 @@
+{
+  "name": "Mi Plan de Jubilación",
+  "description": "Calculadora interactiva de jubilación y libertad financiera para calcular cuánto dinero necesitás, cuánto podés acumular y cómo alcanzar tu objetivo financiero.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
